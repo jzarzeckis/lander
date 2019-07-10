@@ -1,0 +1,26 @@
+{
+  "name": "lander",
+  "version": "1.0.0",
+  "description": "First steps in creating a game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natrixnatrix89/lander.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natrixnatrix89/lander/issues"
+  },
+  "homepage": "https://github.com/natrixnatrix89/lander#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "pixi.js": "^5.0.4"
+  }
+}
